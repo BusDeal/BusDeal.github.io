@@ -101,7 +101,7 @@
         <div class="row">
           <div class="col-md-5 col-sm-12">
             <div class="logo-outer">
-              <div class="logo"> <a href="index.html"> <img class="logo-default" src="images/Astutellc logo.png" alt="" title=""> </a> </div>
+              <div class="logo"> <a href="index.html"> <img class="logo-default" src="images/Astute_Logo.jpg" alt="" title=""> </a> </div>
             </div>
           </div>
           <div class="col-md-7 col-sm-12">
@@ -154,7 +154,7 @@
         <div class="row"> 
           <!--col start-->
           <div class="col-md-5 col-sm-5">
-           <div class="logo"> <a href="index.html" class="img-responsive"><img class="logo-default" src="images/Astutellc logo.png" alt="" title=""></a> </div>
+           <div class="logo"> <a href="index.html" class="img-responsive"><img class="logo-default" src="images/Astute_Logo.jpg" alt="" title=""></a> </div>
           </div>
           <!--col end--> 
           <!--col start-->
@@ -256,7 +256,7 @@
               <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i> </div>
               <div class="details">
                 <h3>Call Us Now</h3>
-                <p> <strong> 406-838-3456</strong></p>
+                <p> <strong> 331-999-0006</strong></p>
               </div>
             </div>
           </div>
@@ -335,7 +335,7 @@
       <!--col start-->
       <div class="col-md-4 col-sm-12">
         <div class="footer-info">
-          <div class="footer-logo"> <a href="index.html"><img class="footer-logo-default" src="images/Astutellc logo.png" alt=""> </a> </div>
+          <div class="footer-logo"> <a href="index.html"><img class="footer-logo-default" src="images/Astute_Logo.jpg" alt=""> </a> </div>
           <p>Astutellc came into existence in 2011 with a strong objective of providing high-quality software for mobile phones, handheld devices and web solutions.  </p>
           <ul class="footer-social">
             <li><a href="#" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
@@ -391,8 +391,8 @@
             <div class="footer-info">
               <h3 class="footer-title">Contact Us</h3>
               <ul class="footer-adress">
-                <li><i class="fa fa-map-marker"></i><span>929 Fee Fee Rd, Suite # 201, Maryland Heights, MO - 63043 </span></li>
-                <li><i class="fa fa-phone"></i><span>Call Us : 406-838-3456</span></li>
+                <li><i class="fa fa-map-marker"></i><span>1813 N MIll St, Suite H, Naperville IL 60563 </span></li>
+                <li><i class="fa fa-phone"></i><span>Call Us : 331-999-0006</span></li>
                 <li><i class="fa fa-envelope-o"></i><span>Email : hr@astutellc.us</span></li>
               </ul>
             </div>
